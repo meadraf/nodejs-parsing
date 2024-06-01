@@ -1,0 +1,352 @@
+[
+  {
+    "date": "Tue Jan 26 2021",
+    "sign": "GBP",
+    "value": "1.4062199999999998"
+  },
+  {
+    "date": "Sat Jan 23 2021",
+    "sign": "GBP",
+    "value": "1.425954"
+  },
+  {
+    "date": "Sun Jan 03 2021",
+    "sign": "AUD",
+    "value": "0.744"
+  },
+  {
+    "date": "Thu Jan 21 2021",
+    "sign": "EUR",
+    "value": "1.170355"
+  },
+  {
+    "date": "Wed Jan 27 2021",
+    "sign": "EUR",
+    "value": "1.189215"
+  },
+  {
+    "date": "Mon Feb 01 2021",
+    "sign": "EUR",
+    "value": "1.1517249999999999"
+  },
+  {
+    "date": "Fri Jan 08 2021",
+    "sign": "EUR",
+    "value": "1.180705"
+  },
+  {
+    "date": "Thu Jan 21 2021",
+    "sign": "GBP",
+    "value": "1.3597139999999999"
+  },
+  {
+    "date": "Mon Jan 04 2021",
+    "sign": "GBP",
+    "value": "1.3525379999999998"
+  },
+  {
+    "date": "Thu Jan 14 2021",
+    "sign": "GBP",
+    "value": "1.3717199999999998"
+  },
+  {
+    "date": "Sun Jan 24 2021",
+    "sign": "AUD",
+    "value": "0.72435"
+  },
+  {
+    "date": "Fri Feb 26 2021",
+    "sign": "GBP",
+    "value": "1.4069099999999999"
+  },
+  {
+    "date": "Sat Feb 20 2021",
+    "sign": "EUR",
+    "value": "1.1297599999999999"
+  },
+  {
+    "date": "Fri Jan 01 2021",
+    "sign": "GBP",
+    "value": "1.3468799999999999"
+  },
+  {
+    "date": "Tue Feb 02 2021",
+    "sign": "AUD",
+    "value": "0.7641749999999999"
+  },
+  {
+    "date": "Thu Jan 28 2021",
+    "sign": "EUR",
+    "value": "1.178175"
+  },
+  {
+    "date": "Fri Feb 26 2021",
+    "sign": "AUD",
+    "value": "0.730875"
+  },
+  {
+    "date": "Wed Mar 03 2021",
+    "sign": "GBP",
+    "value": "1.355022"
+  },
+  {
+    "date": "Wed Jan 13 2021",
+    "sign": "EUR",
+    "value": "1.17047"
+  },
+  {
+    "date": "Thu Feb 11 2021",
+    "sign": "AUD",
+    "value": "0.770775"
+  },
+  {
+    "date": "Sun Jan 17 2021",
+    "sign": "EUR",
+    "value": "1.14471"
+  },
+  {
+    "date": "Tue Jan 12 2021",
+    "sign": "AUD",
+    "value": "0.726375"
+  },
+  {
+    "date": "Mon Jan 11 2021",
+    "sign": "EUR",
+    "value": "1.165065"
+  },
+  {
+    "date": "Tue Jan 05 2021",
+    "sign": "GBP",
+    "value": "1.360128"
+  },
+  {
+    "date": "Mon Jan 18 2021",
+    "sign": "EUR",
+    "value": "1.11113"
+  },
+  {
+    "date": "Sun Feb 07 2021",
+    "sign": "EUR",
+    "value": "1.137235"
+  },
+  {
+    "date": "Tue Feb 09 2021",
+    "sign": "EUR",
+    "value": "1.16403"
+  },
+  {
+    "date": "Mon Jan 25 2021",
+    "sign": "EUR",
+    "value": "1.172655"
+  },
+  {
+    "date": "Fri Feb 05 2021",
+    "sign": "GBP",
+    "value": "1.33653"
+  },
+  {
+    "date": "Sat Jan 16 2021",
+    "sign": "GBP",
+    "value": "1.3318379999999999"
+  },
+  {
+    "date": "Sat Feb 06 2021",
+    "sign": "AUD",
+    "value": "0.74385"
+  },
+  {
+    "date": "Mon Jan 11 2021",
+    "sign": "GBP",
+    "value": "1.4031839999999998"
+  },
+  {
+    "date": "Fri Mar 19 2021",
+    "sign": "AUD",
+    "value": "0.732525"
+  },
+  {
+    "date": "Fri Jan 15 2021",
+    "sign": "GBP",
+    "value": "1.35516"
+  },
+  {
+    "date": "Fri Jan 22 2021",
+    "sign": "AUD",
+    "value": "0.742275"
+  },
+  {
+    "date": "Mon Jan 25 2021",
+    "sign": "AUD",
+    "value": "0.7389749999999999"
+  },
+  {
+    "date": "Mon Jan 04 2021",
+    "sign": "EUR",
+    "value": "1.156095"
+  },
+  {
+    "date": "Mon Jan 25 2021",
+    "sign": "GBP",
+    "value": "1.3374959999999998"
+  },
+  {
+    "date": "Sun Feb 21 2021",
+    "sign": "AUD",
+    "value": "0.7733999999999999"
+  },
+  {
+    "date": "Sat Jan 16 2021",
+    "sign": "AUD",
+    "value": "0.74505"
+  },
+  {
+    "date": "Sun Feb 28 2021",
+    "sign": "EUR",
+    "value": "1.146205"
+  },
+  {
+    "date": "Wed Jan 06 2021",
+    "sign": "GBP",
+    "value": "1.33791"
+  },
+  {
+    "date": "Sun Feb 28 2021",
+    "sign": "AUD",
+    "value": "0.7695000000000001"
+  },
+  {
+    "date": "Thu Jan 21 2021",
+    "sign": "AUD",
+    "value": "0.7716749999999999"
+  },
+  {
+    "date": "Mon Feb 01 2021",
+    "sign": "AUD",
+    "value": "0.741225"
+  },
+  {
+    "date": "Mon Mar 22 2021",
+    "sign": "EUR",
+    "value": "1.1437899999999999"
+  },
+  {
+    "date": "Wed Jan 06 2021",
+    "sign": "EUR",
+    "value": "1.1888699999999999"
+  },
+  {
+    "date": "Wed Feb 10 2021",
+    "sign": "GBP",
+    "value": "1.4193299999999998"
+  },
+  {
+    "date": "Wed Jan 20 2021",
+    "sign": "AUD",
+    "value": "0.7419"
+  },
+  {
+    "date": "Sun Jan 10 2021",
+    "sign": "GBP",
+    "value": "1.346466"
+  },
+  {
+    "date": "Mon Jan 04 2021",
+    "sign": "AUD",
+    "value": "0.75705"
+  },
+  {
+    "date": "Thu Jan 14 2021",
+    "sign": "AUD",
+    "value": "0.7409250000000001"
+  },
+  {
+    "date": "Thu Jan 07 2021",
+    "sign": "EUR",
+    "value": "1.132175"
+  },
+  {
+    "date": "Sat Jan 23 2021",
+    "sign": "EUR",
+    "value": "1.137005"
+  },
+  {
+    "date": "Tue Feb 16 2021",
+    "sign": "GBP",
+    "value": "1.3677179999999998"
+  },
+  {
+    "date": "Sat Feb 13 2021",
+    "sign": "EUR",
+    "value": "1.142525"
+  },
+  {
+    "date": "Thu Mar 04 2021",
+    "sign": "GBP",
+    "value": "1.377516"
+  },
+  {
+    "date": "Tue Jan 26 2021",
+    "sign": "EUR",
+    "value": "1.1157299999999999"
+  },
+  {
+    "date": "Mon Feb 15 2021",
+    "sign": "GBP",
+    "value": "1.370202"
+  },
+  {
+    "date": "Mon Mar 22 2021",
+    "sign": "GBP",
+    "value": "1.3771019999999998"
+  },
+  {
+    "date": "Fri Feb 05 2021",
+    "sign": "AUD",
+    "value": "0.7707"
+  },
+  {
+    "date": "Fri Feb 12 2021",
+    "sign": "AUD",
+    "value": "0.7662"
+  },
+  {
+    "date": "Mon Jan 18 2021",
+    "sign": "AUD",
+    "value": "0.7444500000000001"
+  },
+  {
+    "date": "Thu Feb 18 2021",
+    "sign": "EUR",
+    "value": "1.1716199999999999"
+  },
+  {
+    "date": "Wed Mar 10 2021",
+    "sign": "GBP",
+    "value": "1.379448"
+  },
+  {
+    "date": "Sun Jan 24 2021",
+    "sign": "EUR",
+    "value": "1.1296449999999998"
+  },
+  {
+    "date": "Sat Jan 02 2021",
+    "sign": "EUR",
+    "value": "1.1319449999999998"
+  },
+  {
+    "date": "Tue Jan 19 2021",
+    "sign": "AUD",
+    "value": "0.7629000000000001"
+  },
+  {
+    "date": "Sat Jan 09 2021",
+    "sign": "EUR",
+    "value": "1.1511499999999997"
+  },
+  {
+    "date": "Sun Jan 17 2021",
+    "sign": "GBP",
+    "value": "1.378758"
+  }
+]
